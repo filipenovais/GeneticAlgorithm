@@ -1,4 +1,4 @@
-# GeneticAlgorithm
+# PixelGeneticAlgorithm
 
 ## Personal Project
 
